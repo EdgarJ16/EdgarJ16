@@ -1,5 +1,5 @@
 # 👤 About Me:
-I'm a software Engineer student very keen on learning  <br><br>
+I'm a Systems  Engineer  very keen on learning  <br><br>
 
 
 ## 🌐 Socials:
