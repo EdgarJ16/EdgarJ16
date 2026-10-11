@@ -1,11 +1,22 @@
-# 👤 About Me:
-I'm a Systems  Engineer  very keen on learning  <br><br>
+# Hi, I'm Edgar Jacob 👋
 
+**AI & Automation Engineer · Costa Rica** — I build Generative AI and automation systems people can trust.
+Ingeniero de IA y automatización en Costa Rica.
 
-## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://linkedin.com/in/edgar-antonio-jacob-moreno) 
+🌐 **Portfolio:** [edgarjacob-software-dev.com](https://edgarjacob-software-dev.com)
+💼 **LinkedIn:** [edgar-antonio-jacob-moreno](https://www.linkedin.com/in/edgar-antonio-jacob-moreno)
 
-# 💻 Technologies and Tools:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=plastic&logo=xamarin&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
+## What I work on
+- **GenAI & AI Safety** — agentic AI, local LLMs with Ollama, RAG, Copilot Studio
+- **Automation & Data** — Microsoft Fabric, Power Platform, Alteryx, Automation Anywhere
+- **Identity & Cloud** — Active Directory, SailPoint, Okta, Azure, AWS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured
+- [**AgenticLocal-RAG**](https://github.com/EdgarJ16/AgenticLocal-RAG) — 100% local coding agent: Open WebUI + FastAPI + LangGraph + Ollama + FAISS RAG, with path-traversal guards and a shell allowlist.
+- [**ISA Trail Cam Tool**](https://github.com/EdgarJ16/isa-trail-cam-tool) — desktop app for offline trail camera video management.
+- [**Mascarada Frenesi**](https://edgarj16.itch.io/mascarada-frenesi) — Global Game Jam 2026, Unity/C# WebGL, 48h, team lead.
+
+## Stack
+Python · PowerShell · C# · Java · JavaScript · SQL · Microsoft Fabric · Power Platform · Azure · AWS
+
+📍 San José, Costa Rica · MSc Software Engineering (AI), CENFOTEC — in progress
